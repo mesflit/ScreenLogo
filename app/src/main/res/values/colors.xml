@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color> <!-- Siyah -->
+    <color name="colorPrimaryDark">#000000</color> <!-- Siyah -->
+    <color name="colorAccent">#FF0000</color> <!-- Kırmızı -->
+    <color name="textColor">#FFFFFF</color>
+    <color name="backgroundColor">#000000</color>
+</resources>
